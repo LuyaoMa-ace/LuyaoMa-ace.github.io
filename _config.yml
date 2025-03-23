@@ -37,7 +37,7 @@ author:
   type      : # "person" (default), "organization"
   name      : Ma Luyao
   url       :
-  avatar    : https://www.duitang.com/blog/?id=1322869590  # path or url of avatar image (square)
+  avatar    : "C://Users/mly12/Downloads/20210213231943_b4cf5.jpeg" # path or url of avatar image (square)
   bio       : I am an amazing person.
   email     : luyaoma059@gmail.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
@@ -151,9 +151,9 @@ pageview:
 
   ## Leancloud
   leancloud:
-    app_id    : # LeanCloud App id
-    app_key   : # LeanCloud App key
-    app_class : # LeanCloud App class
+    app_id    : yte6gjajWLxZRRYN6FjwfCn6-gzGzoHsz
+    app_key   : QEod2TtbAmLU699m7Q9Y0lWA
+    app_class : qmdPZKxTmoxhl7rrq3TLxfrd
 
 
 ## => Search
