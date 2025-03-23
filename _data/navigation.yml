@@ -1,4 +1,13 @@
 header:
+  - titles :
+      en      : &EN Home
+      en-US   : *EN
+      zh-Hans : &ZH_HANS  主页
+      zh      : *ZH_HANS
+      zh-Hant : &ZH_HANT  主頁
+    url: /  
+
+
   - titles:
       # @start locale config
       en      : &EN       Archive
