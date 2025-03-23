@@ -7,7 +7,21 @@ header:
       zh-Hant : &ZH_HANT  主頁
     url: /  
 
+  - titles :
+      en      : &EN Categories
+      en-US   : *EN
+      zh-Hans : &ZH_HANS  分类
+      zh      : *ZH_HANS
+      zh-Hant : &ZH_HANT  分類
+    url: /  
 
+  - titles :
+      en      : &EN Plog
+      en-US   : *EN
+      zh-Hans : &ZH_HANS  生活随拍
+      zh      : *ZH_HANS
+      zh-Hant : &ZH_HANT  影像日誌
+    url: /  
 
   - titles:
       # @start locale config
