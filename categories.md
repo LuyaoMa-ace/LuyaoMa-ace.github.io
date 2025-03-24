@@ -4,7 +4,7 @@ title: Categories
 permalink: /categories/
 ---
 
-<h2>📂 Categories </h2>
+<h2>📂 Content </h2>
 
 {% for category in site.categories %}
 <details style="margin-bottom: 1em;">
