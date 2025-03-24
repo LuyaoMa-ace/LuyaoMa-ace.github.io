@@ -16,14 +16,7 @@ header:
     url: / categories.html
     key: categories
 
-  - titles :
-      en      : &EN Plog
-      en-US   : *EN
-      zh-Hans : &ZH_HANS  生活随拍
-      zh      : *ZH_HANS
-      zh-Hant : &ZH_HANT  影像日誌
-    url: /plog.html
-    key: plog
+  
 
   - titles:
       # @start locale config
