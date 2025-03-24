@@ -4,12 +4,12 @@ title: Categories
 permalink: /categories/
 ---
 
-<h2>📂 分类列表</h2>
+<h2>📂 Categories </h2>
 
 {% for category in site.categories %}
 <details style="margin-bottom: 1em;">
   <summary>
-    <strong>{{ category[0] }}</strong>（{{ category[1].size }} 篇文章）
+    <strong>{{ category[0] }}</strong>（{{ category[1].size }} articles）
   </summary>
   <ul style="margin-top: 0.5em;">
     {% for post in category[1] %}
