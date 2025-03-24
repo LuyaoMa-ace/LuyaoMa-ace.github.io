@@ -44,6 +44,9 @@ header:
       # @end locale config
     url: /archive.html
 
+  - title  : Github
+    url    : https://github.com/LuyaoMa-ace/LuyaoMa-ace.github.io
+    
   - titles:
       # @start locale config
       en      : &EN       About
@@ -69,3 +72,6 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
+
+ 
+
