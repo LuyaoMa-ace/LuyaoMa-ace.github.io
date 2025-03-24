@@ -13,7 +13,8 @@ header:
       zh-Hans : &ZH_HANS  分类
       zh      : *ZH_HANS
       zh-Hant : &ZH_HANT  分類
-    url: / categories/
+    url: / categories.html
+    key: categories
 
   - titles :
       en      : &EN Plog
@@ -21,7 +22,8 @@ header:
       zh-Hans : &ZH_HANS  生活随拍
       zh      : *ZH_HANS
       zh-Hant : &ZH_HANT  影像日誌
-    url: /plog/
+    url: /plog.html
+    key: plog
 
   - titles:
       # @start locale config
