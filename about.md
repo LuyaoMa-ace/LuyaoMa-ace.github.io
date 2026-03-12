@@ -26,14 +26,13 @@ titles:
 key: page-about
 ---
 
-Hi! I'm Luyao.👋
+Hi! I'm Luyao.
 
-I'm a student passionate about artificial intelligence, data science, and creating things that make life a little easier (or a little prettier ✨).  
+I'm a Master's student in Artificial Intelligence at the University of Bologna, with a focus on LLM safety, NLP, and autonomous agent systems. I'm particularly interested in understanding and mitigating structural vulnerabilities in LLM-based agents — from adversarial attacks to prompt injection in multimodal environments. 
 
-This site is my digital notebook where I share my projects, learning notes, and personal thoughts.
 
 📍 Currently based in Bologna.  
-🎯 Learning Python, machine learning, and how to be less afraid of the future.  
-🍵 Loves coffee, quiet evenings, and friendly conversations.
+🎯 Researching LLM agent security and trustworthy AI systems. 
+🍵 Fueled by coffee, quiet evenings, and good conversations.
 
-Feel free to explore and reach out! 😊
+This site is where I document my projects, research notes, and thoughts on AI. Feel free to explore and reach out!
