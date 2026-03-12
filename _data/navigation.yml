@@ -44,8 +44,8 @@ header:
       # @end locale config
     url: /archive.html
 
-  - title  : Github
-    url    : https://github.com/LuyaoMa-ace/LuyaoMa-ace.github.io
+  - title: CV / Resume
+    url: /CV_Luyao_Ma.pdf
     
   - titles:
       # @start locale config
